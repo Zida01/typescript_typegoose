@@ -34,7 +34,7 @@ export class User {
         },
         message: "Invalid email format",
     })
-    Email!: string;
+    Email!: string
     
 
 }
